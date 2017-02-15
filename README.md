@@ -1,3 +1,3 @@
 # GH Pages para CursosWeb
 
-Sitio web para [CursosWeb](http://cursosweb.github.io "CursosWeb").
+Sitio web para [CursosWeb](http://acamara7es.github.io/CursosWeb.github.io).
